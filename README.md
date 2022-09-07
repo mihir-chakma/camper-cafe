@@ -1,2 +1,2 @@
 # CamperCafe
-Camper Cafe
+Camper Cafe made using HTML and CSS.
